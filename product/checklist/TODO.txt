@@ -12,4 +12,4 @@
 
 - js / setup.js - Make changes as necesary. Tag / shorten links to social media profiles for track / analytics purposes. There are additional instructions / details in this file. 
 
-- _edit-this / my-quotes.js - This is the data file. Once all of the above is completed this is the only place where updates will take place. Please pardon the somewhat awkward folder name but the leading underscore makes it the first thing the user sees.
+- a-edit-this / my-quotes.js - This is the data file. Once all of the above is completed this is the only place where updates will take place. Please pardon the somewhat awkward folder name but the leading underscore makes it the first thing the user sees.
