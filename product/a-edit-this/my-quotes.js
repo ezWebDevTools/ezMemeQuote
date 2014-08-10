@@ -8,13 +8,26 @@
  
 var ezMQ = {
   "ezobj":[
+  
       {
-	  'index'		: 4,
-	  'title'		: 'Getting Started',
+	  'index'		: 5,
+	  'title'		: 'Getting Started: ezMemeQuote',
       'idea_size'	: 100,	  
-	  'idea'		: 'In the repo\'s demo folder there\'s a subfolder called checklist. That list will walk you through all the basics.<br><br>Again, the intention here is KISS. Something consistent and branded without the overhead of Photoshop, etc.<br><br>The setup doesn require some know how, after that it\'s closer to editing a text file.',
+	  'idea'		: 'In the repo\'s product folder there\'s a subfolder called checklist. That list will walk you through all the basics.<br><br>Again, the intention here is KISS. Something consistent and branded without the overhead of Photoshop, etc.<br><br>The setup does require some know how, after that it\'s closer to editing a text file.',
 	  'quotes'		: false,
 	  'select'		: 'Getting started',
+	  'who'			: 'ezWebDevTools',
+	  'note'		: 'Thanks for checking out our product.',
+	  'caption' 	: setupCaption,
+    },
+	
+      {
+	  'index'		: 4,
+	  'title'		: 'Select: Style Demo',
+      'idea_size'	: 100,	  
+	  'idea'		: 'Look in the lower right corner. See the select?<br><br>Try Red and/or Black.<br><br>This feature allows the design to have some built in variations (via the CSS).<br><br>Note: This demo is intentionally basic. Ultimately the variations in style / design can be anything that\'s CSS-able.',
+	  'quotes'		: false,
+	  'select'		: 'Demo: Select an alt-Style ',
 	  'who'			: 'ezMemeQuote',
 	  'note'		: '',
 	  'caption' 	: setupCaption,
@@ -23,13 +36,14 @@ var ezMQ = {
 	  'index'		: 3,
 	  'title'		: '',
       'idea_size'	: 100,	  
-	  'idea'		: 'No Title.<br><br>No quotes.<br><br>No Who.<br><br>No Note.<br><br>No Caption.',
+	  'idea'		: 'Just the Idea.<br><br>No Title.<br><br>No quotes.<br><br>No Who.<br><br>No Note.<br><br>No Caption.',
 	  'quotes'		: false,
 	  'select'		: 'No. No. No. No. No.',
 	  'who'			: '',
 	  'note'		: '',
 	  'caption' 	: '',
     },
+	// copy & paste a row at a time. 
     {
 	  'index'		: 2,
 	  'title'		: 'ezMemeQuote',
@@ -41,6 +55,7 @@ var ezMQ = {
 	  'note'		: 'Product Manager: NxT LvL MrktnG',
 	  'caption'		: setupCaption
     },
+	// ---------
     {
 	  'index'		: 1,
 	  'title'		: '', 
