@@ -55,14 +55,14 @@ var setupDashNote = '<span class="w3-dash w3-dash-note">&mdash;</span>';
  */
 var setupCaption = new Object;
 
-setupCaption.c1 = '<a href="#" target="_blank"><i class="fa fa-twitter"></i> ezWebDevTools</a>'; 
-setupCaption.c2 = '<a href="#" target="_blank"><i class="fa fa-facebook-square"></i> ezWebDevTools</a>';
+setupCaption.c1 = '<a href="http://autd.co/al93A" target="_blank"><i class="fa fa-twitter"></i> ezWebDevTools</a>'; 
+setupCaption.c2 = '<a href="http://autd.co/rjLG1" target="_blank"><i class="fa fa-facebook-square"></i> ezWebDevTools</a>';
 setupCaption.c3 = '<a href="TODO" target="_blank"><i class="fa fa-pinterest-square"></i> TODO - Pinterest</a>';
-setupCaption.c4 = '<a href="#" target="_blank"><i class="fa fa-globe"></i> ezWebDevTools.com</a>';
+setupCaption.c4 = '<a href="http://autd.co/zAemy" target="_blank"><i class="fa fa-globe"></i> ezWebDevTools.com</a>';
 setupCaption.c5 = '<a href="TODO" target="_blank"><i class="fa fa-linkedin-square"></i> TODO - LinkedIn</a>';
 
 setupCaption.c6 = '<a href="TODO" target="_blank"><i class="fa fa-instagram"></i> TODO - Instagram</a>';
-setupCaption.c7 = '<a href="TODO" target="_blank"><i class="fa fa-github"></i> ezWebDevTools</a>';
+setupCaption.c7 = '<a href="http://autd.co/4uHrs" target="_blank"><i class="fa fa-github"></i> ezWebDevTools</a>';
 setupCaption.c8 = '';
 setupCaption.c9 = '';
 setupCaption.c10 = '';
