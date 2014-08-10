@@ -1,9 +1,9 @@
 ezMemeQuote
 ===========
 
-###An Uber Easy Starter Template for Text-based Meme-esque Content Creation. 
+###An Uber Easy Starter Template Engine for Text-based Meme-esque Content Creation. 
 
-Text-based meme template, with a make it brand-centric twist. Some light CSS (and js) knowledge required. 
+Text-based meme template, with a make-it-brand-centric twist. Some light CSS (and js) knowledge required. 
 
 
 ####OVERVIEW
@@ -14,7 +14,14 @@ use a browser add-on / extension for the screen grab;
 and then post that image to Pinterest, Facebook, Twitter and the like.
 
 
-It's not Photoshop! It's a quick KISS tool for publishing branded quotes with minimal friction. That's about it.
+It's not Photoshop! It's a quick KISS tool for publishing branded quotes with minimal friction. That's about it. It's powerful in its own little way. It's an app, not a full-blown do it all application.
  
 
-More info and demo: http://ezWebDevTools.github.io/ezMemeQuote/
+####MORE INFO & DEMO
+
+http://ezWebDevTools.github.io/ezMemeQuote/
+
+
+####CREDITS
+
+Built in partnership with NxT LvL MrktnG.
