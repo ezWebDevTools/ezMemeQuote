@@ -73,6 +73,11 @@ setupCaption.c10 = '';
 var setupCaption = setupCaption.c7 + setupCaption.c1 + setupCaption.c2 + setupCaption.c4; //+ setupCaption5 + setupCaption6;
 
 /**
+ * Should the list be read / processed in reverse order? That is, the one at the bottom of my-quotes.js will be listed first.  
+ */
+var setupReverse = true;
+
+/**
  * It actually possible to request a page by #hash. 
  * 
  * For example myMQuote.com#3 would display page 3 *if* there is a page 3.

@@ -4,6 +4,17 @@
  * <br> = return
  * <br><br> = paragraph break
  *
+ * ** If you're not familar with programming and how that relates to apostrophes, single quotes and double quotes then please use: **
+ *
+ * - apostrophe = &#39;
+ *
+ * - left single quote = &lsquo;
+ * - right single quote = &rsquo;
+ *
+ * - left double quote = &ldquo;
+ * - right double quote = &rdquo;
+ *
+ * Other special characters: http://www.degraeve.com/reference/specialcharacters.php
  */
  
 var ezMQ = {

@@ -32,7 +32,13 @@ window.onload = function (){
   }
 
 // setup the select
-ezMQ.ezobj.reverse();
+if (typeof setupReverse != 'undefined'){
+  if (setupReverse != false){
+    ezMQ.ezobj.reverse();
+  }
+}else{
+  ezMQ.ezobj.reverse();
+}
 for (i = 0; i < ezMQ.ezobj.length; i++) {
   if ( 'select' in ezMQ.ezobj[i] === false ){
     thisSummary = setupNoSelect
